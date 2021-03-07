@@ -10,3 +10,5 @@ mkdocs test
 adding a line in the local reporitory conflic local<br>
 <br>
 -- Test 02 - Conflits - Local<br>
+<br>
+Modified in Branch-A<br>
