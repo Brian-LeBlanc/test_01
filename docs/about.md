@@ -1,6 +1,6 @@
 # This is my about page - Test_01
 <br>
-## Not much to put here yet
+## Not much to put here yet.
 <br>
 ### The Stuff Below is just an example
 <br>
